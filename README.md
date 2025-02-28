@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @nikhil-mangla
+![Uploading Untitled design.png…]()
 
 ## 👀 I’m interested in:
 - Cloud Computing
@@ -21,7 +22,7 @@
 ## 📫 How to reach me:
 - Email: [nikhilmangla2305@gmail.com](mailto:nikhilmangla2305@gmail.com)
 - LinkedIn: [Nikhil Mangla](https://www.linkedin.com/in/nikhil-mangla)
-- Portfolio: [Nikhil's Portfolio](https://nikhil-mangla.github.io/Nikhil-mangla-portfolio/)
+- Portfolio: [Nikhil's Portfolio](https://nikhil-dev-portfolio-git-main-nikhil-manglas-projects.vercel.app/)
 
 ## 😄 Pronouns:
 - He/Him
