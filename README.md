@@ -1,5 +1,6 @@
-# 👋 Hi, I’m @nikhil-mangla
-![](/Users/nikhilmangla/Downloads/dev-next/my-portdev/app/assets/Image.png)
+# 👋 Hi, I’m Nikhil Mangla
+![](https://github.com/user-attachments/assets/f0b58ee7-04e2-4758-8362-2bb5a5937061)
+
 
 ## 👀 I’m interested in:
 - Cloud Computing
