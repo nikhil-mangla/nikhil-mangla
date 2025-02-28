@@ -1,4 +1,4 @@
- [](https://github.com/user-attachments/assets/f0b58ee7-04e2-4758-8362-2bb5a5937061) # 👋 Hi, I’m Nikhil Mangla
+ [](https://github.com/user-attachments/assets/5465d51e-9f86-48f4-8a74-a0396d6c49cd)) # 👋 Hi, I’m Nikhil Mangla
 
 
 ## 👀 I’m interested in:
