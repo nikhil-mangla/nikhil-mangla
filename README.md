@@ -5,7 +5,6 @@
 ## 👀 I’m interested in:
 - Cloud Computing
 - Fullstack Development
-- DevOps Practices
 - Frontend Technologies (React, Flutter)
 - Solving challenging programming problems
 
