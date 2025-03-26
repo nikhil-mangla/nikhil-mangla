@@ -11,7 +11,6 @@
 ## 🌱 I’m currently learning:
 - Advanced Cloud Technologies (AWS, Google Cloud)
 - Machine Learning and AI
-- Continuous Integration and Deployment (CI/CD) practices
 - Web and Mobile App Development
 
 ## 💞️ I’m looking to collaborate on:
